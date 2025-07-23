@@ -6,7 +6,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:my_flutter_demo/bloc_demo/bloc/product/product_bloc.dart';
-import 'package:provider/provider.dart';
 import '../Repository/product_repository.dart';
 import '../models/product_model.dart';
 

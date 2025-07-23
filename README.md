@@ -1,3 +1,20 @@
+# 参考文章
+
+- [flutter 流(Stream)介绍&结合RxDart使用](https://juejin.cn/post/7477921821285433384)
+- [Flutter dio 手把手教你封装一个实用网络工具](https://juejin.cn/post/7475651131449819136)
+- [Flutter 混合架构方案：多引擎](https://juejin.cn/post/7474995524337500212)
+- [Flutter 一招教你解决json_annotation类型解析失败问题](https://juejin.cn/post/7472785299732496418)
+- [Flutter go_router 路由管理详解&封装](https://juejin.cn/post/7472230420470759424)
+- [Flutter中你需要知道的WidgetsFlutterBinding](https://juejin.cn/post/7472188108366643235)
+- [一文教你更安全更简单的使用event_bus](https://juejin.cn/post/7468898013546512384)
+- [Flutter 状态管理(Provider)](https://juejin.cn/post/6940814394234241038)
+
+
+
+
+
+
+
 ![Flutter跟原生混编架构](./Flutter_image.png)
 
 # 业务层
